@@ -5,6 +5,8 @@
 - 📫 How to reach me: dhankush2006@gmail.com/sigmanode.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm usually diving into sci-fi movies, listening to acoustic Haryanvi/Punjabi music, or reading up on habit formation!
+- Languages: C++, Python, HTML/CSS/JavaScript
+- Library: Node.js
 
 <!---
 Ankush259/Ankush259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
